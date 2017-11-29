@@ -5,7 +5,7 @@ CREATE COMPUTE MODULE first1_Compute
 	BEGIN
 		-- CALL CopyMessageHeaders();
 		-- CALL CopyEntireMessage();
-				SET OutputRoot.XMLNSC.OUT.OUT1='DHARMATEJA';
+				SET OutputRoot.XMLNSC.OUT.OUT1='cdcvsDHARMATEJA';
 		RETURN TRUE;
 	END;
 
